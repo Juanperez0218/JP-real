@@ -1,0 +1,133 @@
+body { margin: 0; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; }
+
+.Backgroundtop{
+    width: 100% ; height: 400px;}
+
+.icon { position: absolute; top: 5%; left: 5%;
+    width: 50px;}
+
+.lista {position: absolute; top: 18%; left: 7%;
+    display: inline-block;}
+
+a {
+    text-decoration: none; color: rgb(255, 255, 255); 
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+ul li {
+    list-style: none;
+    display: inline;
+    margin: 15px;}
+
+.botonestop {margin: 1px; position: absolute; top: 5%; right: 5%;}
+
+.botontop1 {
+    background-color:  rgba(241, 148, 7, 0.842);
+    border: 2px solid rgb(88, 77,25,0.315);
+    border-radius: 5px;
+    width: 150px;
+    padding: 10px;
+    margin: 10px;}
+
+.botontop2 {
+    background-color: rgba(241, 148, 7, 0.842);
+    border: 2px solid rgba(88, 77, 25, 0.315);
+    border-radius: 5px;
+    width: 150px;
+    padding: 10px;}
+
+.preguntatop {position: absolute; top: 24%; left: 12%;
+    font-size: 25px; 
+    color: rgb(255, 255, 255);}
+
+.botonesbotton {
+    position: absolute; top: 33%; left: 13%;}
+
+.botton1 {
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 8px;
+    width: 150px;
+    padding: 10px;
+    margin-top: 2%;}
+
+.botton2 {
+    background-color: rgb(255, 255, 255);
+    border:none;
+    border-radius: 8px;
+    width: 150px;
+    padding: 10px;
+    margin-top: 2%;}
+
+footer { background-color: rgb(241, 148,7, 0.842);
+        color: rgb(0, 0, 0);
+        padding: 19px;
+        font-size: 20px;
+        margin-bottom: 0%;}body { margin: 0; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; }
+
+.Backgroundtop{
+    width: 100% ; height: 400px;}
+
+.icon { position: absolute; top: 5%; left: 5%;
+    width: 50px;}
+
+.lista {position: absolute; top: 18%; left: 7%;
+    display: inline-block;}
+
+a {
+    text-decoration: none; color: rgb(255, 255, 255); 
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+ul li {
+    list-style: none;
+    display: inline;
+    margin: 15px;}
+
+.botonestop {margin: 1px; position: absolute; top: 5%; right: 5%;}
+
+.botontop1 {
+    background-color:  rgba(241, 148, 7, 0.842);
+    border: 2px solid rgb(88, 77,25,0.315);
+    border-radius: 5px;
+    width: 150px;
+    padding: 10px;
+    margin: 10px;}
+
+.botontop2 {
+    background-color: rgba(241, 148, 7, 0.842);
+    border: 2px solid rgba(88, 77, 25, 0.315);
+    border-radius: 5px;
+    width: 150px;
+    padding: 10px;}
+
+.preguntatop {position: absolute; top: 24%; left: 12%;
+    font-size: 25px; 
+    color: rgb(255, 255, 255);}
+
+.botonesbotton {
+    position: absolute; top: 33%; left: 13%;}
+
+.botton1 {
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 8px;
+    width: 150px;
+    padding: 10px;
+    margin-top: 2%;}
+
+.botton2 {
+    background-color: rgb(255, 255, 255);
+    border:none;
+    border-radius: 8px;
+    width: 150px;
+    padding: 10px;
+    margin-top: 2%;}
+
+footer { background-color: rgb(241, 148,7, 0.842);
+        color: rgb(0, 0, 0);
+        padding: 19px;
+        font-size: 20px;
+        margin-bottom: 0%;}
